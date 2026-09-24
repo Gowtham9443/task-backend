@@ -7,7 +7,7 @@ Full-stack task manager: HTML/CSS/JS frontend + Node.js/Express backend + MongoD
 back-end/ 
 ├── .env
 ├── server.js   
-├── package.json  
+├── package.json    
 ├── models/Task.js
 ├── routes/tasks.js  
 └── public/index.html
